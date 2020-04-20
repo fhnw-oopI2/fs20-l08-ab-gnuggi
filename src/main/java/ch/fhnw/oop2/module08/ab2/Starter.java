@@ -1,4 +1,4 @@
-package ab2;
+package ch.fhnw.oop2.module08.ab2;
 
 import javafx.application.Application;
 import javafx.scene.Parent;

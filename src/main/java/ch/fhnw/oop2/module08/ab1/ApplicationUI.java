@@ -1,4 +1,4 @@
-package ab1;
+package ch.fhnw.oop2.module08.ab1;
 
 import javafx.scene.control.Button;
 import javafx.scene.layout.StackPane;
